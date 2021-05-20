@@ -1,4 +1,5 @@
 # Hi Alexis!
+#Hi Stephen.
 #If you run all, you'll get an error at line 22, but if you just copy
 #and paste the remaining code I swear it works. You do have to pass
 #the printed first word through the function yourself to get the sentence.
